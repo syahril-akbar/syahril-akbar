@@ -1,8 +1,7 @@
-## 💫 About Me:
+# 💫 About Me:
 - 🔭 I'm currently working on improving my coding skills.  <br>- 🤝 I'm looking to collaborate on open-source projects.  <br>- 🌱 I'm currently learning web development and data science.  <br>- 💬 Ask me about programming, tech, and gadgets.  <br>- ⚡ Fun fact: I love exploring new technologies and building cool projects!  <br><br>📫 **Let's connect:**  <br><br>[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/syahril-akbar)  <br>[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://web.facebook.com/syahrilakbar63)  <br>[![Instagram](https://img.shields.io/badge/Instagram-Profile-red?style=flat&logo=instagram)](https://www.instagram.com/syahril_akbar32)  <br>[![Academia](https://img.shields.io/badge/Academia.edu-Profile-darkblue?style=flat&logo=academia)](https://independent.academia.edu/SyahrilAkbar20)  <br>
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/syahrilakbar63) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/syahrilakbar63) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/syahril_akbar32) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syahrilakbar63@gmail.com) 
 
 # 💻 Tech Stack:
